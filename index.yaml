@@ -3,7 +3,7 @@ entries:
   demo-helm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-04-15T19:15:45.027695+08:00"
+    created: "2022-04-15T19:25:44.091208+08:00"
     description: A Helm chart for Kubernetes
     digest: 22f9d2be1dd053e2b2592ff6ff097f754972c02d20832ee67901c617d1a8624c
     name: demo-helm
@@ -13,7 +13,17 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-04-15T19:15:45.027095+08:00"
+    created: "2022-04-15T19:25:44.090527+08:00"
+    description: A Helm chart for Kubernetes
+    digest: c16262fb612cd5f20d36a562295b424a12d203b26201ff4e35560f9ba77812a4
+    name: demo-helm
+    type: application
+    urls:
+    - https://willchang1114.github.io/Helm-Local/demo-helm-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-04-15T19:25:44.089805+08:00"
     description: A Helm chart for Kubernetes
     digest: 0878670426e9015527ac89da98ab2b420cc88604aae5a14216cbe9636470dd4c
     name: demo-helm
@@ -24,7 +34,7 @@ entries:
   test-helm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-04-15T19:15:45.028064+08:00"
+    created: "2022-04-15T19:25:44.09191+08:00"
     description: A Helm chart for Kubernetes
     digest: 3c49ac9d6977885ec8c7cc6ba00b954aa23c939167d879a20bec6dcf8d75639e
     name: test-helm
@@ -32,4 +42,4 @@ entries:
     urls:
     - https://willchang1114.github.io/Helm-Local/test-helm-0.1.0.tgz
     version: 0.1.0
-generated: "2022-04-15T19:15:45.026505+08:00"
+generated: "2022-04-15T19:25:44.08859+08:00"
