@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  demo-helm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-04-15T18:08:10.987427+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 740186c2eb707f7d688870d81e1259655bcc8ed58beada168f5076ba85ada604
+    name: demo-helm
+    type: application
+    urls:
+    - https://willchang1114.github.io/Helm-Local/demo-helm-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-04-15T18:08:10.986042+08:00"
